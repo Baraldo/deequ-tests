@@ -1,0 +1,11 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+
+
+lib_managed/
+src_managed/
+/project/boot/
+
+.idea
